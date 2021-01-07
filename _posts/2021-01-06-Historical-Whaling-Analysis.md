@@ -31,7 +31,7 @@ Mean =
 Q1=
 Q3=
 
-![image]
+![image](/assets/img/record dist LT 1868.PNG)
 
 
 
