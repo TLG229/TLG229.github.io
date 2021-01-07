@@ -25,7 +25,7 @@ H1:  μPhase 1 ≠ μPhase 0
 
 First, a look at the distribution of the records.
 
-Phase 0 - The historical record distribution of records from 1748 - 1868
+**Phase 0 - The historical record distribution of records from 1748 - 1868**
 
 Mean =            <br /> 
 Q1=               <br /> 
@@ -33,7 +33,7 @@ Q3=                <br />
 
 ![image](/assets/img/record dist LT 1868.PNG)
 
-Phase 1 - The historical record distribution > 1868 to < =1920
+**Phase 1 - The historical record distribution > 1868 to < =1920**
 
 Mean =             <br /> 
 Q1=                <br /> 
