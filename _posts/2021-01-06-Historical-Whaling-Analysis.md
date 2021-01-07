@@ -20,24 +20,24 @@ Phase 0 - <1868 - No technological innovations.  Whalers used sailing ships, row
 Phase 1 - >1868 < 1920 -  From the advent of the exploding harpoon gun with the steam whaler and off-shore factory improvements until the advancements and predominant use of factory ships and hunting in the antarctic waters.
 
 
-H0:  μPhase 1 = μPhase 0
+H0:  μPhase 1 = μPhase 0<br /> 
 H1:  μPhase 1 ≠ μPhase 0
 
 First, a look at the distribution of the records.
 
 Phase 0 - The historical record distribution of records from 1748 - 1868
 
-Mean =
-Q1=
-Q3=
+Mean =            <br /> 
+Q1=               <br /> 
+Q3=                <br /> 
 
 ![image](/assets/img/record dist LT 1868.PNG)
 
 Phase 1 - The historical record distribution > 1868 to < =1920
 
-Mean = 
-Q1=
-Q2=
+Mean =             <br /> 
+Q1=                <br /> 
+Q2=                <br /> 
 
 ![image](/assets/img/record dist GT 1868.PNG)
 
