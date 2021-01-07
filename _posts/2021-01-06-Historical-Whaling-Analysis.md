@@ -33,11 +33,14 @@ Q3=
 
 ![image](/assets/img/record dist LT 1868.PNG)
 
+Phase 1 - The historical record distribution > 1868 to < =1920
+
+Mean = 
+Q1=
+Q2=
+
+![image](/assets/img/record dist GT 1868.PNG)
 
 
 
-Footnotes
 
-[1] Emptying the Oceans https://pdfs.semanticscholar.org/301b/305d818d375c69e478dd502c18b52e88cd82.pdf?_ga=2.60799791.387049218.1609997617-375080215.1609997617
-
-[2] (Basber, B. n.d)https://www.cnrs-scrn.org/northern_mariner/vol08/nm_8_1_21-37.pdf
