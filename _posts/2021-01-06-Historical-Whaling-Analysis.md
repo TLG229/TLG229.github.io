@@ -13,7 +13,7 @@ The study attributes several innovations which contributed to these new found ca
  
 Historical whaling records were obtained from [Whalinghistory.org](https://whalinghistory.org/av/) which is a collaboration between the New Bedford Whaling Museum and Mystic Seaport Museum which developed the world’s most comprehensive whaling history database. The data combines many sources including logbooks, journals, ship registers, newspapers, business papers, and custom house records. This particular analysis used the American Offshore Whaling Voyage (AOWV) database which dates from 1784 - 1920 and includes 466,134 records.  
 
-This analysis wants to compare the number of whales killed before the technological innovations to the number of whales killed after the technological innovations to see if they’re significantly different from each other. A two-sample t- test was used to compare the two phases.
+This analysis compares the number of whales killed before the technological innovations to the number of whales killed after the technological innovations to see if they’re significantly different from each other. A two-sample t- test was used to compare the two phases.
 
 Phase 0 - <1868 - No technological innovations.  Whalers used sailing ships, rowboats, and  hand thrown harpoons. 
 
@@ -31,7 +31,7 @@ Mean =
 Q1=
 Q3=
 
-[image]
+![image]
 
 
 
