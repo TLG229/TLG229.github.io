@@ -30,6 +30,6 @@ Phase 0 - The historical record distribution of records from 1748 - 1868
 
 Footnotes
 
-[1] Emptying the Oceans
+[1] Emptying the Oceans https://pdfs.semanticscholar.org/301b/305d818d375c69e478dd502c18b52e88cd82.pdf?_ga=2.60799791.387049218.1609997617-375080215.1609997617
 
 [2] (Basber, B. n.d)https://www.cnrs-scrn.org/northern_mariner/vol08/nm_8_1_21-37.pdf
