@@ -59,7 +59,7 @@ Additionally, the vast amount of encounters were 'No Encounters', followed by Si
 
 This shows the two separate time periods I want to compare and the trend line which is moving up in the > 1868 phase.
 
-![image](/assets/img/whales tried over time by period.PNG)
+![image](/assets/img/whales tried over time by time period.PNG)
 
 And this is what is looks like as a continuous line plot...
 
