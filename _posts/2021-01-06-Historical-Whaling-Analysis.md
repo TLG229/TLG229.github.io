@@ -43,12 +43,33 @@ Q2= 1896 <br />
 
 ![image](/assets/img/record dist GT 1868.PNG)
 
-#The Distribution of Whales Tried
+#The Distribution of Whales Tried <br />
 
 The vast amount of records report 0 whales are killed or “tried”.  The maximum shown here is 10 however the original dataset has as many as 17 tries reported however anything greater than 10 was determined to be an outlier. As you can see, the data is skewed right.
 
+![image](/assets/img/num whales tried.PNG)
 
+#Frequency of the Types of Encounters<br />
 
+Additionally, the vast amount of encounters were 'No Encounters', followed by Sightings and then, Strikes or kills. If a whale was sighted, there was a 64% chance of a strike.
+
+![image](/assets/img/encounter frequency.PNG)
+
+#Visualizations of Whales Tried Over Time <br />
+
+This shows the two separate time periods I want to compare and the trend line which is moving up in the > 1868 phase.
+
+![image](/assets/img/whales tried over time by period.PNG)
+
+And this is what is looks like as a continuous line plot...
+
+![image](/assets/img/whales tried over time line plot.PNG)
+
+While visually it looks like the trend is increasing during the second phase of whaling after 1868 is it statistically significant? <br/>
+
+**Two Sample T-test
+
+When performing a 2 sample t-test the p value = 0.0 therefore H0 is rejected and Phase 1 ≠ Phase 2 indicating that the two phases are significantly different.
 
 
 
