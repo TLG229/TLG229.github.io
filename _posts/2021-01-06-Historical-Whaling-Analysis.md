@@ -72,7 +72,7 @@ While visually it looks like the trend is increasing during the second phase of 
 To determine if the two phases were significantly different from each other a 2 sample t-test was performed. The results yielded a p value = 0.0 therefore H0 was rejected and Phase 1 ≠ Phase 2 indicating that the two phases are significantly different.
 
 
-
+[Medium Blog Post](https://tonyagoodell.medium.com/historical-whaling-analysis-a-look-at-how-technological-advances-impacted-whaling-304052c63079)
 
 
 
