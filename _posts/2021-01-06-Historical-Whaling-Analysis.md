@@ -65,7 +65,7 @@ And this is what is looks like as a continuous line plot...
 
 ![image](/assets/img/whales tried over time line plot.PNG)
 
-While visually it looks like the trend is increasing during the second phase of whaling after 1868 is it statistically significant? <br/>
+While visually it looks like the trend is increasing during the second phase of whaling after 1868, is it statistically significant? <br/>
 
 **Two Sample T-test
 
